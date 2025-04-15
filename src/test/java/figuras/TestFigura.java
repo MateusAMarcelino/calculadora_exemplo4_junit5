@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
  * @author MateusAMarcelino
  */
 class TestFigura {
+ 
  @Test
  void testGetCor() {
  String retornoEsperado = "Verde";
