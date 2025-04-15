@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
  * @author MateusAMarcelino
  */
 class TestTriangulo {
+ 
  @Test
  void testGetArea() {
  double altura = 3;
