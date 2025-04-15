@@ -1,10 +1,10 @@
-
 package figuras;
 
 /**
  *
  * @author MateusAMarcelino
  */
+
 public class Triangulo extends Figura {
     
  private double altura;
