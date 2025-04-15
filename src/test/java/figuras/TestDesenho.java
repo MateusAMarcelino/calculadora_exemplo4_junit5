@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  *
- * @author 1072321293
+ * @author MateusAMarcelino
  */
 class TestDesenho {
 
@@ -24,6 +24,7 @@ class TestDesenho {
 
  assertEquals(1, desenho.getFiguras().size());
  }
+ 
  @Test
  void testGetArea() {
  Desenho desenho = new Desenho(); //Objeto desenho a ser testado
