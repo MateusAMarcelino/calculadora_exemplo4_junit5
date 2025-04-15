@@ -49,4 +49,3 @@ class TestDesenho {
  assertEquals(areaDesenhoEsperado, retornoFeito);
  }
 }
-
