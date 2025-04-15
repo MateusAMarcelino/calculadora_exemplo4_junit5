@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  *
- * @author 1072321293
+ * @author MateusAMarcelino
  */
 class TestFigura {
  @Test
